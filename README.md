@@ -1,6 +1,6 @@
 # dominoscompute.github.io
 
-From [BQN for bird watchers][https://mlochbaum.github.io/BQN/doc/birds.html]
+From [BQN for bird watchers](https://mlochbaum.github.io/BQN/doc/birds.html)
 | BQN   | Bird 1   | 1      | Bird 2    | 2                    |
 | :---: | :------- | :----: | :-------- | :------------------: |
 | ⊣     | Identity | I      | Kestrel   | K                    |
